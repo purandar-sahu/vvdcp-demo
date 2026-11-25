@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace the placeholder base URL only after the institution approves a production domain. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/about.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/academics.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/admissions.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/notices.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/contact.html</loc></url>
+</urlset>
